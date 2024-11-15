@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.gnome-shell-mouse-mover" path="/org/gnome/shell/extensions/gnome-shell-mouse-mover/">
+    <key name="enable-cursor-flash" type="b">
+      <default>false</default>
+      <summary>Enable cursor flash effect</summary>
+      <description>When enabled, the cursor will flash or show an aura effect when moved to the center of the focused window.</description>
+    </key>
+  </schema>
+</schemalist>
+
