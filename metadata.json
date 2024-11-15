@@ -1,0 +1,9 @@
+{
+    "name": "GnomeShell Mouse Mover",
+    "description": "Automatically moves the mouse cursor to the center of the currently focused window when switching between windows using Alt+Tab.",
+    "uuid": "gnome-shell-mouse-mover@izual750.github.com",
+    "url": "https://github.com/Izual750/GnomeShell-Mouse-Mover",
+    "shell-version": [
+        "47"
+    ]
+}
